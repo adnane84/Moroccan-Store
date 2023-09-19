@@ -60,7 +60,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "Green",
     availability: true,
-    image: "./assets/CeramicPlate.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/ceramicplate-min.jpg?updatedAt=1695153377418",
     category: "kitchen",
     description:
       "Serve your culinary creations on this exquisite ceramic plate. Handcrafted by a talented ceramics artisan, its lush green color and intricate design make it a statement piece for your dining table.",
@@ -82,7 +82,7 @@ export const data = [
     craftsperson: "Shoemaker",
     color: "Brown",
     availability: true,
-    image: "./assets/TraditionalShoes.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/Traditionalshoes.jpg?updatedAt=1695153371866",
     category: "apparel",
     description:
       "Step into Moroccan tradition with these handcrafted leather shoes. Expertly made by a skilled shoemaker, these brown shoes showcase traditional design and unmatched comfort. A perfect blend of style and heritage.",
@@ -126,7 +126,7 @@ export const data = [
     craftsperson: "Rug Weaver",
     color: "Various",
     availability: true,
-    image: "./assets/MoroccanRugs.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/MoroccanRugs.jpg?updatedAt=1695153377440",
     category: "decor",
     description:
       "Transform your living space with these handwoven Moroccan rugs. Each rug is a work of art crafted by a skilled rug weaver, showcasing a blend of traditional patterns and contemporary style.",
@@ -137,7 +137,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "Blue",
     availability: true,
-    image: "./assets/TeaPod.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/TeaPod.jpg?updatedAt=1695153371434",
     category: "kitchen",
     description:
       "Brew your favorite tea in style with this Moroccan-inspired ceramic tea pod. Handcrafted by a talented ceramics artisan, its soothing blue color and unique design make tea time a delightful experience.",
@@ -159,7 +159,7 @@ export const data = [
     craftsperson: "Spice Expert",
     color: "Yellow",
     availability: true,
-    image: "./assets/SaffronJar.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/SaffronJar.jpg?updatedAt=1695153373061",
     category: "kitchen",
     description:
       "Add a touch of luxury to your dishes with this Moroccan saffron jar. Sourced and packaged by a skilled spice expert, its vibrant yellow threads bring flavor and color to your culinary creations.",
@@ -170,7 +170,7 @@ export const data = [
     craftsperson: "Brass Artisan",
     color: "Brass",
     availability: true,
-    image: "./assets/BrassAccessory.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/BrassAccessory.jpg?updatedAt=1695153374597",
     category: "decor",
     description:
       "Adorn your space with the elegance of Moroccan brass accessories. Handcrafted by a skilled brass artisan, this piece features intricate designs and a timeless brass finish.",
@@ -181,7 +181,7 @@ export const data = [
     craftsperson: "Woodworker",
     color: "Brown",
     availability: true,
-    image: "./assets/JewelryBox.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/jewelrybox.jpg?updatedAt=1695153376151",
     category: "accessory",
     description:
       "Store your jewelry in this beautifully crafted Moroccan-inspired jewelry box. Handmade by a skilled woodworker, its rich brown color and ornate design add a touch of opulence to your accessory collection.",
@@ -203,7 +203,7 @@ export const data = [
     craftsperson: "Silversmith",
     color: "Silver",
     availability: true,
-    image: "./assets/SilverJewelry.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/silverjewelry.jpg?updatedAt=1695153372874",
     category: "accessory",
     description:
       "Adorn yourself with the beauty of Moroccan silver jewelry. Meticulously crafted by a skilled silversmith, each piece showcases traditional designs and the elegance of silver.",
