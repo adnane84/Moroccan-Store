@@ -1,0 +1,24 @@
+{
+  "name": "moroccan-store",
+  "version": "1.0.0",
+  "description": "\"More details about the project will be provided soon. We are currently considering additional features, such as the ability to remove items from the cart and adding a new 'buy again' button for products that have already been purchased.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnane84/Moroccan-Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnane84/Moroccan-Store/issues"
+  },
+  "homepage": "https://github.com/adnane84/Moroccan-Store#readme",
+  "devDependencies": {
+    "@nightwatch/mobile-helper": "^0.1.12",
+    "nightwatch": "^3.1.3"
+  }
+}
