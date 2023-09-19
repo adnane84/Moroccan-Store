@@ -187,17 +187,6 @@ export const data = [
       "Store your jewelry in this beautifully crafted Moroccan-inspired jewelry box. Handmade by a skilled woodworker, its rich brown color and ornate design add a touch of opulence to your accessory collection.",
   },
   {
-    productName: "Moroccan Lamp",
-    price: 44.99,
-    craftsperson: "Lamp Artisan",
-    color: "Gold",
-    availability: true,
-    image: "./assets/MoroccanLamp.jpg",
-    category: "decor",
-    description:
-      "Bask in the warm ambiance of this Moroccan-style lamp. Handcrafted by a skilled lamp artisan, its intricate metalwork and golden finish cast captivating patterns when illuminated. Elevate your space with a touch of Moroccan mystique.",
-  },
-  {
     productName: "Silver Jewelry",
     price: 34.99,
     craftsperson: "Silversmith",
@@ -209,17 +198,6 @@ export const data = [
       "Adorn yourself with the beauty of Moroccan silver jewelry. Meticulously crafted by a skilled silversmith, each piece showcases traditional designs and the elegance of silver.",
   },
   {
-    productName: "Earrings",
-    price: 9.99,
-    craftsperson: "Jewelry Artisan",
-    color: "Assorted",
-    availability: true,
-    image: "./assets/Earrings.jpg",
-    category: "accessory",
-    description:
-      "Complete your look with these charming Moroccan-inspired earrings. Handcrafted by a skilled jewelry artisan, the set includes an assortment of earrings in various styles and colors.",
-  },
-  {
     productName: "Tea Pod",
     price: 19.99,
     craftsperson: "Ceramics Artisan",
@@ -229,16 +207,5 @@ export const data = [
     category: "kitchen",
     description:
       "Brew your favorite tea in style with this Moroccan-inspired ceramic tea pod. Handcrafted by a talented ceramics artisan, its soothing blue color and unique design make tea time a delightful experience.",
-  },
-  {
-    productName: "Sweets Gift Box",
-    price: 24.99,
-    craftsperson: null,
-    color: "Assorted",
-    availability: true,
-    image: "./assets/SweetsGiftBox.jpg",
-    category: "gift",
-    description:
-      "Indulge in a variety of Moroccan sweets with this beautifully packaged gift box. A delightful assortment of traditional Moroccan confections, perfect for gifting or treating yourself.",
-  },
+  }
 ];
