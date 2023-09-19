@@ -5,7 +5,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "White",
     availability: true,
-    image: "./assets/CeramicSoapDish.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/CeramicSoapDish-min.jpg?updatedAt=1695153368473",
     category: "bathroom",
     description:
       "Enhance your bathroom decor with this beautifully crafted ceramic soap dish. Handmade by a skilled ceramics artisan, it features a clean white color and a sleek design. A perfect addition to your bathroom ensemble.",
@@ -16,7 +16,7 @@ export const data = [
     craftsperson: "Rug Weaver",
     color: "Various",
     availability: true,
-    image: "./assets/MoroccanCarpets.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/MoroccanCarpets.jpg?updatedAt=1695153367280",
     category: "decor",
     description:
       "Elevate your living space with these intricately woven Moroccan carpets. Each carpet is a masterpiece crafted by a skilled rug weaver, featuring a variety of captivating colors and traditional patterns. A blend of culture and comfort.",
@@ -27,7 +27,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "Blue",
     availability: true,
-    image: "./assets/CeramicJar.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/CeramicJar.jpg?updatedAt=1695153368774",
     category: "kitchen",
     description:
       "Store your kitchen essentials in style with this charming ceramic jar. Handcrafted by a talented ceramics artisan, its soothing blue hue and unique design add a touch of elegance to your kitchen decor.",
@@ -38,7 +38,7 @@ export const data = [
     craftsperson: "Candle Maker",
     color: "Assorted",
     availability: true,
-    image: "./assets/CandlesBox.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/candlesbox.jpg?updatedAt=1695153369960",
     category: "decor",
     description:
       "Set the mood with these delightful Moroccan-inspired candles. Handcrafted by a dedicated candle maker, the set includes an assortment of scented candles in vibrant colors. Perfect for adding a warm glow to any space.",
@@ -49,7 +49,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "Turquoise",
     availability: true,
-    image: "./assets/CeramicBowl.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/CeramicBowl.jpg?updatedAt=1695153360575",
     category: "kitchen",
     description:
       "Enjoy your meals in this beautifully glazed ceramic bowl. Handcrafted by a skilled ceramics artisan, its vibrant turquoise color and hand-painted accents make every dining experience special.",
@@ -71,7 +71,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "Brown",
     availability: true,
-    image: "./assets/Tajin.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/Tajin.jpg?updatedAt=1695153358750",
     category: "kitchen",
     description:
       "Cook up delicious and authentic Moroccan dishes in this traditional tajin. Handcrafted by a skilled ceramics artisan, its brown color and glazed finish bring the essence of Moroccan cooking to your kitchen.",
@@ -93,7 +93,7 @@ export const data = [
     craftsperson: "Massage Therapist",
     color: "Various",
     availability: true,
-    image: "./assets/MassageAccessories.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/massageaccessories.jpg?updatedAt=1695153358622",
     category: "health",
     description:
       "Indulge in self-care with these carefully crafted Moroccan massage accessories. Created by a skilled massage therapist, the set includes various tools to enhance relaxation and rejuvenation.",
@@ -104,7 +104,7 @@ export const data = [
     craftsperson: "Textile Artisan",
     color: "Multi-colored",
     availability: true,
-    image: "./assets/KitchenTails.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/kitchentails.jpg?updatedAt=1695153357053",
     category: "kitchen",
     description:
       "Add a pop of color to your kitchen with these vibrant Moroccan-inspired kitchen towels. Handwoven by a talented textile artisan, they're not only functional but also a feast for the eyes.",
@@ -148,7 +148,7 @@ export const data = [
     craftsperson: null,
     color: "Brown",
     availability: true,
-    image: "./assets/ChocolateBasketGift.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/chocolatebasketgift-min.jpg?updatedAt=1695153365124",
     category: "gift",
     description:
       "Surprise your loved ones with this delightful chocolate basket gift. A selection of the finest Moroccan chocolates beautifully arranged in a brown basket. A sweet gesture for any occasion.",
@@ -192,7 +192,7 @@ export const data = [
     craftsperson: "Lamp Artisan",
     color: "Gold",
     availability: true,
-    image: "./assets/MoroccanLamp.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/MoroccanLamp.jpg?updatedAt=1695153358156",
     category: "decor",
     description:
       "Bask in the warm ambiance of this Moroccan-style lamp. Handcrafted by a skilled lamp artisan, its intricate metalwork and golden finish cast captivating patterns when illuminated. Elevate your space with a touch of Moroccan mystique.",
@@ -214,7 +214,7 @@ export const data = [
     craftsperson: "Jewelry Artisan",
     color: "Assorted",
     availability: true,
-    image: "./assets/Earrings.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/earrings-min.jpg?updatedAt=1695153367592",
     category: "accessory",
     description:
       "Complete your look with these charming Moroccan-inspired earrings. Handcrafted by a skilled jewelry artisan, the set includes an assortment of earrings in various styles and colors.",
@@ -236,7 +236,7 @@ export const data = [
     craftsperson: null,
     color: "Assorted",
     availability: true,
-    image: "./assets/SweetsGiftBox.jpg",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/Sweetsgiftbox.jpg?updatedAt=1695153358766",
     category: "gift",
     description:
       "Indulge in a variety of Moroccan sweets with this beautifully packaged gift box. A delightful assortment of traditional Moroccan confections, perfect for gifting or treating yourself.",
