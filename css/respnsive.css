@@ -1,0 +1,163 @@
+/* Media Query for max width 1200px */
+@media (max-width: 1200px) {
+  .card-title {
+    font-size: 20px;
+  }
+
+  .button-89 {
+    width: 80%;
+  }
+
+  .shopping-cart .container {
+    max-width: 90%;
+  }
+}
+
+/* Media Query for max width 960px */
+@media (max-width: 960px) {
+  .services-text h4 {
+    margin-top: 40px;
+  }
+
+  .search {
+    margin: 0 auto;
+    width: 300px;
+  }
+
+  .card-title {
+    font-size: var(--fs-5);
+  }
+
+  .product-popup.container {
+    max-width: 100%;
+    height: 100%;
+  }
+
+  .shipping-message h4 {
+    transform: rotate(0);
+    top: 5%;
+    left: 28%;
+    font-size: var(--fs-2);
+  }
+}
+
+/* Media Query for max width 768px */
+@media (max-width: 768px) {
+  .services-text h4 {
+    margin-top: 40px;
+  }
+
+  .button-30 {
+    padding: 8px 19px;
+    width: 100px;
+  }
+
+  #post-category {
+    margin: 0 20px;
+  }
+
+  .card-body h5 {
+    font-size: var(--fs-4);
+  }
+
+  .product-details h3 {
+    font-size: var(--fs-5);
+    font-weight: var(--fw-600);
+  }
+
+  .shopping-cart-title h3 {
+    margin-right: 10px;
+  }
+  
+}
+
+/* Media Query for max width 575px */
+@media (max-width: 575px) {
+  .search-input {
+    width: 30%;
+  }
+
+  .services-text h4 {
+    font-size: var(--fs-4);
+  }
+
+  #services {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .section-title {
+    width: 90%;
+  }
+
+  .product-popup.container {
+    max-width: 95%;
+    height: 100%;
+  }
+
+  .popup-image img {
+    height: 300px;
+  }
+
+  .popup-info h2 {
+    font-size: var(--fs-4);
+    margin-top: 20px;
+  }
+
+  .close-popup {
+    font-size: var(--fs-6);
+  }
+
+  .ibox {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .product-cart {
+    display: grid;
+    grid-template-rows: 300px 100px repeat(3, .25fr); /* 100px, 60px, and three rows with equal height */
+    grid-gap: 10px; /* Adjust this value for the desired gap between rows */
+    justify-content: center;
+  }
+
+  .product-details p {
+    text-align: center;
+  }
+
+  .product-details h3 {
+    font-size: var(--fs-3);
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .shipping {
+    width: 80%;
+  }
+
+  .shopping-cart-title {
+    flex-direction: column;
+  }
+
+  .shipping-message {
+    width: 90%;
+  }
+
+  .shipping-message h4 {
+    transform: rotate(0);
+    top: 5%;
+    left: 28%;
+    font-size: var(--fs-2);
+  }
+
+  .shipping-message h3 {
+    font-size: var(--fs-4);
+  }
+
+}
