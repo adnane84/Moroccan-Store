@@ -115,7 +115,7 @@ export const data = [
     craftsperson: "Ceramics Artisan",
     color: "White",
     availability: true,
-    image: "./assets/Toothbrushtumbler.webp",
+    image: "https://ik.imagekit.io/ex5tlyivu/assets/Toothbrushtumbler.webp?updatedAt=1695153378553",
     category: "bathroom",
     description:
       "Organize your bathroom essentials in this handy ceramic toothbrush tumbler. Skillfully crafted by a ceramics artisan, its clean white color and minimalist design complement any bathroom decor.",
