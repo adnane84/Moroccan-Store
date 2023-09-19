@@ -608,6 +608,7 @@ table.table-bordered td {
 
 .info {
   width: 55%;
+  flex-direction: column;
 }
 
 .shopping-cart-title h3 {
@@ -1064,3 +1065,11 @@ h4 {
   color: var(--coin-silver);
 }
 
+#preloader {
+  background-color: var(--black) url(/assets/BHFO.gif) no-repeat center center;
+  background-size: 20%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 9999;
+}

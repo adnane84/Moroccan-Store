@@ -6,6 +6,14 @@ import { setupSearch } from "./search.js";
 import { addToCart, getRandomProducts, cartItems } from "./cart.js";
 import { scrollTo } from "./scroll.js";
 
+  // Preloader 
+
+  let loader = document.getElementById("preloader");
+
+  window.addEventListener("load", function() {
+    loader.style.display = "none";
+  })
+
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById("products-container");
   const sortButton = document.getElementById("sortButton");
@@ -221,6 +229,8 @@ document.addEventListener("DOMContentLoaded", () => {
       // Call other functions to update the cart display and perform other tasks.
     }
   }
+
+
 
   // Initialize the cart from local storage when the page loads
   initializeCartFromLocalStorage();
