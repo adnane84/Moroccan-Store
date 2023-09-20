@@ -209,17 +209,6 @@ export const data = [
       "Complete your look with these charming Moroccan-inspired earrings. Handcrafted by a skilled jewelry artisan, the set includes an assortment of earrings in various styles and colors.",
   },
   {
-    productName: "Tea Pod",
-    price: 19.99,
-    craftsperson: "Ceramics Artisan",
-    color: "Blue",
-    availability: true,
-    image: "./assets/TeaPod.jpg",
-    category: "kitchen",
-    description:
-      "Brew your favorite tea in style with this Moroccan-inspired ceramic tea pod. Handcrafted by a talented ceramics artisan, its soothing blue color and unique design make tea time a delightful experience.",
-  },
-  {
     productName: "Sweets Gift Box",
     price: 24.99,
     craftsperson: null,
