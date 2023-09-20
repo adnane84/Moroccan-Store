@@ -960,7 +960,7 @@ h4 {
 .shipping-message {
   width: 50%;
   height: 500px;
-  background-image: url(https://ik.imagekit.io/ex5tlyivu/assets/thankyou.jpg?updatedAt=1695153363836);
+  background-image: url(../assets/thankyou.webp);
   margin: 50px auto;
   overflow: hidden;
   background-size: cover;
