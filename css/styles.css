@@ -840,7 +840,7 @@ table.table-bordered td {
 
 .services-text p {
   margin-bottom: 30px;
-  font-size: var(--fs-8);
+  font-size: var(--fs-5);
   font-weight: var(--fw-400);
   font-family: var(--ff-merriweather);
   color: var(--coin-silver);
