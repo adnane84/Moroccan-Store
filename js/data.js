@@ -132,17 +132,6 @@ export const data = [
       "Transform your living space with these handwoven Moroccan rugs. Each rug is a work of art crafted by a skilled rug weaver, showcasing a blend of traditional patterns and contemporary style.",
   },
   {
-    productName: "Tea Pod",
-    price: 19.99,
-    craftsperson: "Ceramics Artisan",
-    color: "Blue",
-    availability: true,
-    image: "https://ik.imagekit.io/ex5tlyivu/assets/TeaPod.jpg?updatedAt=1695153371434",
-    category: "kitchen",
-    description:
-      "Brew your favorite tea in style with this Moroccan-inspired ceramic tea pod. Handcrafted by a talented ceramics artisan, its soothing blue color and unique design make tea time a delightful experience.",
-  },
-  {
     productName: "Chocolate Basket Gift",
     price: 29.99,
     craftsperson: null,
