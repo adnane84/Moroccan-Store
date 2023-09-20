@@ -1065,12 +1065,3 @@ h4 {
 #footer .credits a:hover {
   color: var(--coin-silver);
 }
-
-#preloader {
-  background-color: var(--black) url(/assets/BHFO.gif) no-repeat center center;
-  background-size: 20%;
-  height: 100vh;
-  width: 100%;
-  position: fixed;
-  z-index: 9999;
-}

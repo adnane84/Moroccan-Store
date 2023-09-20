@@ -6,13 +6,6 @@ import { setupSearch } from "./search.js";
 import { addToCart, getRandomProducts, cartItems } from "./cart.js";
 import { scrollTo } from "./scroll.js";
 
-  // Preloader 
-
-  let loader = document.getElementById("preloader");
-
-  window.addEventListener("load", function() {
-    loader.style.display = "none";
-  })
 
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById("products-container");
