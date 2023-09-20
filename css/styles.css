@@ -27,13 +27,14 @@
   --ff-merriweather: "Merriweather", serif;
   --ff-rosario: "Rosario", sans-serif;
 
-  --fs-1: 5rem;
-  --fs-2: 4.2rem;
-  --fs-3: 3rem;
-  --fs-4: 2.6rem;
-  --fs-5: 1.6rem;
-  --fs-6: 1.3rem;
-  --fs-7: 1.25rem;
+  --fs-1: 5rem;    /* 80px */
+  --fs-2: 4.2rem;  /* 67px */
+  --fs-3: 3rem;    /* 48px */
+  --fs-4: 2.5rem;  /* 40px */
+  --fs-5: 1.6rem;  /* 25px */
+  --fs-6: 1.3rem;  /* 21px */
+  --fs-7: 1.25rem; /* 20px */
+  --fs-8: 1rem;    /* 16px */
 
   --fw-400: 400;
   --fw-500: 500;
@@ -168,7 +169,7 @@ button {
   transition: 0.3s linear, color 0s, background-color 0s;
   outline: var(--b) solid #0000;
   outline-offset: 0.6em;
-  font-size: 16px;
+  font-size: var(--fs-6);
   border: 0;
   user-select: none;
   -webkit-user-select: none;
@@ -204,7 +205,7 @@ html {
 body {
   background-color: var(--white);
   color: var(--granite-gray);
-  font-size: 1.6rem;
+  font-size: var(--fs-5);
   line-height: 1.6;
   height: 100%;
 }
@@ -475,7 +476,7 @@ p {
 
 .product-info h4 {
   font-weight: 200;
-  font-size: 20px;
+  font-size: var(--fs-7);
   color: var(--camel);
   margin-bottom: 0;
 }
@@ -561,7 +562,7 @@ p {
 .popup-title {
   margin-top: 20px;
   font-weight: var(--fw-600);
-  font-size: 40px;
+  font-size: var(--fs-4);
   color: var(--camel);
   font-family: var(--ff-vibes);
 }
@@ -577,7 +578,7 @@ p {
 
 .popup-info h4 {
   font-weight: 200;
-  font-size: 20px;
+  font-size: var(--fs-7);
   color: var(--camel);
   margin-bottom: 30px;
 }
@@ -679,7 +680,7 @@ table.table-bordered td {
 
 /* Style the quantity display */
 .quantity {
-  font-size: 16px;
+  font-size: var(--fs-8);
   font-weight: bold;
   display: inline-block;
 }
@@ -692,7 +693,7 @@ table.table-bordered td {
 
 .cart-item-price {
   font-weight: 200;
-  font-size: 20px;
+  font-size: var(--fs-7);
   color: var(--camel);
 }
 
@@ -859,7 +860,7 @@ table.table-bordered td {
 
 .contact .info h4 {
   padding: 0 0 0 60px;
-  font-size: 22px;
+  font-size: var(--fs-6);
   font-family: var(--ff-merriweather);
   font-weight: var(--fw-600);
   margin-bottom: 5px;
@@ -1014,7 +1015,7 @@ h4 {
 }
 
 #footer p {
-  font-size: 15;
+  font-size: var(--fs-8);
   font-style: var(--ff-merriweather);
   font-weight: 200;
   padding: 0;

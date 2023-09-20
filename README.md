@@ -1,39 +1,85 @@
-# E-commerce-JS
+Moroccan Artisanal Crafts
 
-"More details about the project will be provided soon. We are currently considering additional features, such as the ability to remove items from the cart and adding a new 'buy again' button for products that have already been purchased."
+Moroccan Artisanal Crafts is a web application showcasing a collection of handmade Moroccan crafts. The application allows users to browse and purchase various products crafted by skilled artisans.
 
-# Moroccan Decor E-commerce Website
+Moroccan Artisanal Crafts
+Table of Contents
 
-![Website Screenshot](./screenshot.png)
+    Introduction
+    Features
+    Installation
+    Usage
+    CSS Styles
+    Contributing
 
-This is a fully responsive e-commerce website template with a focus on Moroccan decor. It utilizes HTML, CSS, and JavaScript, and is built using the Bootstrap framework for responsive design.
+Introduction
 
-## Features
+Moroccan Artisanal Crafts aims to bring the beauty and craftsmanship of Moroccan products to a global audience. The web application provides a platform for artisans to showcase their work and for users to discover and purchase unique, handmade crafts.
+Features
 
-- Responsive design for mobile and desktop devices.
-- Beautiful Moroccan-inspired aesthetics.
-- Interactive animations using the AOS (Animate On Scroll) library.
-- Shopping cart functionality for adding and managing products.
-- Integration with external libraries like Bootstrap and Ionicons.
-- Contact form for user inquiries.
+    Product Showcase: View a variety of Moroccan crafts including ceramics, rugs, jewelry, and more.
+    Search Functionality: Search for specific products using the search bar.
+    Category Filters: Filter products by category such as bathroom, decor, kitchen, apparel, and more.
+    Cart Functionality: Add products to the cart, view the cart, and proceed to checkout.
+    Shipping Information: Fill in shipping details and submit orders.
+    Responsive Design: The application is designed to be responsive and accessible across various devices.
 
-## Live Demo
+    Technologies Used
 
-You can check out a live demo of this website [here](https://your-demo-url.com).
+    HTML: Markup language used for creating the structure of the web application.
+    CSS: Stylesheets used for styling and layout.
+    JavaScript: Programming language used to provide interactivity and dynamic content.
+    Bootstrap: CSS framework for additional styling and layout.
+    ImageKit: Image optimization and delivery service used for displaying product images.
+    Animations: AOS - Animate on scroll library
+    https://michalsnik.github.io/aos/ 
 
-## Getting Started
+Installation
+
+To install and run the Moroccan Artisanal Crafts web application locally, follow these steps:
+
+    Clone the repository to your local machine:
+
+    bash
+
+git clone https://github.com/adnane84/Moroccan-Store.git
+
+Navigate to the project directory:
+
+bash
+
+    cd moroccan-artisanal-crafts
+
+    Open the index.html file in a web browser.
 
 Usage
-You can use this template as a starting point for your e-commerce website. Modify the content, add your products, and integrate it with a backend to create a fully functional online store.
 
-Credits
-Bootstrap
-Ionicons
-AOS Library
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+    Open the application in a web browser.
+    Browse through the products by scrolling or using the navigation menu.
+    Click on a product to view more details.
+    Add products to the cart by clicking the "Add to Cart" button.
+    View the cart by clicking the cart icon and proceed to checkout.
+    Fill in shipping details and complete the order.
 
-Contact
-If you have any questions, suggestions, or issues, please feel free to contact us.
+CSS Styles
 
-Enjoy building your Moroccan decor e-commerce website!
+The application utilizes the following CSS files for styling:
+
+    style.css: Contains the main styles for the application.
+    responsive.css: Contains styles for making the application responsive.
+    Bootstrap: Bootstrap is also used for additional styling and layout.
+
+Contributing
+
+Contributions to the Moroccan Artisanal Crafts project are welcome. To contribute, follow these steps:
+
+    Fork the repository.
+    Create a new branch for your feature or improvement.
+    Make your changes and commit them with descriptive messages.
+    Push your changes to your fork.
+    Submit a pull request to the main repository.
+
+
+![Alt text](/assets/Screenshot1.png?raw=true "Home")
+![Alt text](/assets/Screenshot2.png?raw=true "About")
+![Alt text](/assets/Screenshot3.png?raw=true "Store")

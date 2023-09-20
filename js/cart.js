@@ -6,7 +6,7 @@ import {
   validateCardHolder,
   validateAndShowShippingForm,
 } from "./creditCard.js";
-import { populateStateSelect, displaySubmitMessage } from "./shipping.js"; // Replace the path with the actual path to your stateSelect.js file
+import { populateStateSelect, displaySubmitMessage } from "./shipping.js";
 
 export const cartItems = [];
 
